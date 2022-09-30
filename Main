@@ -240,7 +240,7 @@ local function getClosestPlayer()
 end
 
 -- ui creating & handling
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ryzekkkj/test/efd64365732baa4a3d8e9c48c4e9bd1da8bef77b/Library"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ryzekkkj/test/main/Library"))()
 
 local Window = Library:CreateWindow("Universal Silent Aim by dx rlq'#0477")
 local GeneralTab = Window:AddTab("General")

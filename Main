@@ -11,14 +11,14 @@ local SilentAimSettings = {
     Enabled = false,
     
     ClassName = "Universal Silent Aim - dx rlq'#0477 ",
-    ToggleKey = "RightAlt",
+    ToggleKey = "ins",
     
     TeamCheck = false,
     VisibleCheck = false, 
     TargetPart = "HumanoidRootPart",
     SilentAimMethod = "Raycast",
     
-    FOVRadius = 130,
+    FOVRadius = 360,
     FOVVisible = false,
     ShowSilentAimTarget = false, 
     

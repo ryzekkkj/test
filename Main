@@ -10,7 +10,7 @@ end
 local SilentAimSettings = {
     Enabled = true,
     
-    ClassName = "Universal Silent Aim - dx rlq'#0477 ",
+    ClassName = "Punished Aim - dx rlq'#0477 ",
     ToggleKey = "p",
     
     TeamCheck = false,

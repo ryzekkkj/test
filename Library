@@ -2130,7 +2130,7 @@ do
     local WatermarkInner = Library:Create('Frame', {
         BackgroundColor3 = Library.MainColor;
         BorderColor3 = Library.AccentColor;
-        BorderMode = Enum.BorderMode.Inset;
+        BorderMode = Enum.BorderMode.p;
         Size = UDim2.new(1, 0, 1, 0);
         ZIndex = 201;
         Parent = WatermarkOuter;
@@ -2195,7 +2195,7 @@ do
     local KeybindInner = Library:Create('Frame', {
         BackgroundColor3 = Library.MainColor;
         BorderColor3 = Library.OutlineColor;
-        BorderMode = Enum.BorderMode.Inset;
+        BorderMode = Enum.BorderMode.p;
         Size = UDim2.new(1, 0, 1, 0);
         ZIndex = 101;
         Parent = KeybindOuter;
